@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\bin\Debug\MessageLoggerBackupTool.exe.config
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\bin\Debug\MessageLoggerBackupTool.exe
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\bin\Debug\MessageLoggerBackupTool.pdb
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.exe
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.pdb
