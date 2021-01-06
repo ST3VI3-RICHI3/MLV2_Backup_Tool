@@ -7,3 +7,4 @@ C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageL
 C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.exe
 C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.pdb
+C:\Users\Alex\Documents\GitHub\MLV2_Backup_Tool\MessageLoggerBackupTool\MessageLoggerBackupTool\obj\Debug\MessageLoggerBackupTool.MainWindow.resources
